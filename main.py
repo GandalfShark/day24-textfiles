@@ -1,6 +1,7 @@
 '''
 spam scam simulator based on day 24 'birthday invite challenge'
 uses form letter and names files to generate pretend scam emails
+note folder structure may need to be recreated to use this code
 '''
 
 with open('./inputs/names.txt', 'r') as names:
